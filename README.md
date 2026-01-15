@@ -1,16 +1,25 @@
-## Hi there 👋
+#Rayyan Ashar
+Manufacturing Engineering Student with interest in mechanical design, manufacturing, robotics and automation.
 
-<!--
-**Rayyan-Ashar/Rayyan-Ashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Technical Skills:
+**CAD & Design:** SolidWorks (CSWA), Fusion 360
+**Programming:** Ladder Logic (ClickPLC), RoboDK, Simulink, VTSCADA, C, C++, C#, Arduino, UML
+**Manufacturing:** FDM 3D Printing, Machining (Lathes, Mills), Thermoforming, Metal Forming
+**Electronics:** PLCs (ClikcPLC), Oscilloscopes, Multimeters, Arduino
+**Tools:** Microsoft Excel, Word, PowerPoint, Teams
+**Certifications:** CSWA; Introduction to C++
 
-Here are some ideas to get you started:
+##Highlighted Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Mechanical/CAD:
+
+High Pressure Die Casting Mold Design: 
+Planetray Gearbox Design:
+
+###Robotics and Coding:
+
+Remote Control Car (ESP32):
+C++ Banking App:
+
+
+
