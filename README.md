@@ -1,7 +1,7 @@
-#Rayyan Ashar
+# Rayyan Ashar
 Manufacturing Engineering Student with interest in mechanical design, manufacturing, robotics and automation.
 
-##Technical Skills:
+## Technical Skills:
 **CAD & Design:** SolidWorks (CSWA), Fusion 360
 **Programming:** Ladder Logic (ClickPLC), RoboDK, Simulink, VTSCADA, C, C++, C#, Arduino, UML
 **Manufacturing:** FDM 3D Printing, Machining (Lathes, Mills), Thermoforming, Metal Forming
@@ -9,14 +9,14 @@ Manufacturing Engineering Student with interest in mechanical design, manufactur
 **Tools:** Microsoft Excel, Word, PowerPoint, Teams
 **Certifications:** CSWA; Introduction to C++
 
-##Highlighted Projects:
+## Highlighted Projects:
 
-###Mechanical/CAD:
+### Mechanical/CAD:
 
 High Pressure Die Casting Mold Design: 
 Planetray Gearbox Design:
 
-###Robotics and Coding:
+### Robotics and Coding:
 
 Remote Control Car (ESP32):
 C++ Banking App:
